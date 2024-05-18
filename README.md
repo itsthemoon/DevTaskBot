@@ -13,7 +13,7 @@ DevTaskBot is a Discord/GitHub bot designed to streamline task and issue managem
 
 ### Prerequisites
 
-- Python 3.7+
+- Python installed
 - Discord bot token
 - GitHub personal access token
 
