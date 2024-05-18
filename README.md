@@ -43,8 +43,8 @@ DevTaskBot is a Discord/GitHub bot designed to streamline task and issue managem
 ## Commands
 	•	/ping: Responds with “Pong!” to test if the bot is running.
 	•	/createtask: Creates a new GitHub issue.
-        •	title: Title of the task.
-        •	description: Description of the task.
-        •	assignee: GitHub username to assign the task to.
+			title: Title of the task.
+        		description: Description of the task.
+        		assignee: GitHub username to assign the task to.
 	•	/setgithubtoken: Sets the GitHub token for the server.
-        •	token: Your GitHub personal access token.
+        		token: Your GitHub personal access token.
