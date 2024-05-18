@@ -28,7 +28,7 @@ DevTaskBot is a Discord/GitHub bot designed to streamline task and issue managem
    ```
 
 2. **Set up a venv (optional):**
-   python3 -m venv venv
+   python -m venv venv
    source venv/bin/activate # On Windows use `venv\Scripts\activate`
 
 3. **Install packages:**
